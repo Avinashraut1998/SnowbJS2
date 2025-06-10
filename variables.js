@@ -35,3 +35,17 @@
 
 // console.log(a);
 
+
+// var firstName  = "Ajay"
+
+// console.log(firstName);
+
+// let firstName = "Ajay"
+// console.log(firstName);
+
+
+// const firstName = "Ajay"
+// console.log(firstName);
+
+
+
